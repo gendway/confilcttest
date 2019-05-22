@@ -1,7 +1,7 @@
 public class ConflictTest {
     public static void main(String[] args) {
         System.out.println(123);
-        System.out.println("曾经沧海");
+        System.out.println("我是小明");
     }
 
 }
