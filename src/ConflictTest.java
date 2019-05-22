@@ -3,6 +3,7 @@ public class ConflictTest {
         System.out.println(123);
         System.out.println("我是小明");
         System.out.println("张三");
+        System.out.println("李四");
     }
 
 }
