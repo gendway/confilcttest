@@ -1,5 +1,6 @@
 public class ConflictTest {
     public static void main(String[] args) {
+        System.out.println("今日头条");
         System.out.println(123);
 
         for (int i = 0; i < 10; i++) {
@@ -7,6 +8,7 @@ public class ConflictTest {
         }
         System.out.println("我是小明");
         System.out.println("张三");
+        System.out.println("李四");
     }
 
 }
