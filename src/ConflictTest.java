@@ -16,7 +16,7 @@ public class ConflictTest {
         HashMap map = new HashMap();
         map.put("haha",a);
         map.put("1","10");
-
+        System.out.println(1231233);
         for (int i = 0; i < 88; i++) {
             System.out.println("重新再来");
         }
